@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "www",
     "django_unicorn",
+    "unicorn",
 ]
 
 MIDDLEWARE = [
