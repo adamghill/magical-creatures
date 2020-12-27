@@ -7,6 +7,7 @@ authors = ["Adam Hill <unicorn@adamghill.com>"]
 [tool.poetry.dependencies]
 python = "^3.6"
 Django = "^3.1.4"
+django-unicorn = "^0.13.0"
 
 [tool.poetry.dev-dependencies]
 
